@@ -1,0 +1,2 @@
+21e2708e1ec24c4b4ee790665c079796dfef1654153bdaf8923f9c5559b7e1ae  BiliMusic-0.1.0-debug.apk
+3d8d85d42b2645f1dbbe2371d9bedb95b29a1c69cd899ef20a866152ea959dbd  BiliMusic-0.2.0-debug.apk

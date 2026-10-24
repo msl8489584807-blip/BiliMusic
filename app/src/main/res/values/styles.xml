@@ -1,0 +1,1 @@
+<resources><style name="Theme.BiliMusic" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item><item name="android:windowActionModeOverlay">true</item><item name="android:windowBackground">#111110</item></style><color name="icon_background">#F4DCB3</color></resources>

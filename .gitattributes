@@ -1,0 +1,15 @@
+* text=auto
+*.kt text eol=lf
+*.kts text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.xml text eol=lf
+gradlew text eol=lf
+*.bat text eol=crlf
+
+# Keep local agent notes and machine-specific evidence out of source archives.
+AGENTS.md export-ignore
+DEVELOPMENT.md export-ignore
+docs/REQUEST.md export-ignore
+docs/superpowers export-ignore
+docs/verification export-ignore
